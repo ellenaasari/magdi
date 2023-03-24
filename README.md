@@ -7,7 +7,7 @@
 ## Install
 1. Clone Project ini 
     ```bash
-    git clone https://github.com/ellenaasari/magang-digital.git
+    git clone https://github.com/ellenaasari/magdi.git
     cd magdi
     ```
 2. Instal dependensi
